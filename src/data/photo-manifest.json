@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T05:45:10.017Z",
+  "generatedAt": "2026-06-21T06:57:31.098Z",
   "albums": [
     {
       "id": "family-memories",
@@ -21,7 +21,8 @@
           "height": 1800,
           "aspectRatio": 1.3333333333333333,
           "capturedAt": "2015-12-07T14:47:44.000Z",
-          "alt": "Family photograph from Family Memories; add a description in site-content.ts",
+          "alt": "Papa holding a small child while family members gather for a group photograph",
+          "caption": "Together at a family gathering",
           "featured": false
         },
         {
@@ -191,7 +192,8 @@
           "height": 1800,
           "aspectRatio": 1.3333333333333333,
           "capturedAt": "2016-04-16T16:10:24.000Z",
-          "alt": "Family photograph from Family Memories; add a description in site-content.ts",
+          "alt": "Papa and two children posing beside a silver aircraft with shark-mouth nose art",
+          "caption": "Our day among the airplanes",
           "featured": false
         },
         {
@@ -361,7 +363,8 @@
           "height": 2400,
           "aspectRatio": 0.75,
           "capturedAt": "2016-08-18T14:44:01.000Z",
-          "alt": "Family photograph from Family Memories; add a description in site-content.ts",
+          "alt": "A child tying a rakhi around Papa’s wrist at the dining table",
+          "caption": "A Raksha Bandhan moment at home",
           "featured": false
         },
         {
@@ -531,7 +534,8 @@
           "height": 2400,
           "aspectRatio": 0.75,
           "capturedAt": "2017-01-16T00:28:44.000Z",
-          "alt": "Family photograph from Family Memories; add a description in site-content.ts",
+          "alt": "Papa watching two children sit inside a colorful arcade truck ride",
+          "caption": "Taking the wheel at the arcade",
           "featured": false
         },
         {
@@ -701,8 +705,10 @@
           "height": 2400,
           "aspectRatio": 0.75,
           "capturedAt": "2018-01-14T15:00:54.000Z",
-          "alt": "Family photograph from Family Memories; add a description in site-content.ts",
-          "featured": false
+          "alt": "Papa standing with two children at an overlook with the Golden Gate Bridge behind them",
+          "caption": "A foggy day at the Golden Gate",
+          "memory": "Even the fog could not hide how special it felt to explore somewhere new together.",
+          "featured": true
         },
         {
           "id": "family-memories-img-6010-6ba69af11f",
@@ -871,7 +877,8 @@
           "height": 2400,
           "aspectRatio": 0.75,
           "capturedAt": "2018-01-14T21:50:50.000Z",
-          "alt": "Family photograph from Family Memories; add a description in site-content.ts",
+          "alt": "Papa posing with two children in front of San Francisco City Hall",
+          "caption": "Exploring San Francisco together",
           "featured": false
         },
         {
@@ -1041,7 +1048,8 @@
           "height": 1800,
           "aspectRatio": 1.3333333333333333,
           "capturedAt": "2018-03-18T20:50:07.000Z",
-          "alt": "Family photograph from Family Memories; add a description in site-content.ts",
+          "alt": "A family selfie taken together while riding in an open-sided red passenger car",
+          "caption": "All aboard for another family adventure",
           "featured": false
         },
         {
@@ -1211,8 +1219,10 @@
           "height": 2400,
           "aspectRatio": 0.75,
           "capturedAt": "2022-03-13T21:27:14.000Z",
-          "alt": "Family photograph from Family Memories; add a description in site-content.ts",
-          "featured": false
+          "alt": "Papa standing behind two children wearing blue martial arts uniforms and holding new belts",
+          "caption": "Proud of every milestone",
+          "memory": "You have always been there at the finish line, proud of every step it took to get there.",
+          "featured": true
         },
         {
           "id": "family-memories-1a1e2aed-3e2e-4706-bbe1-f4f4c9f686a5-82dcb76377",
@@ -1381,7 +1391,8 @@
           "height": 672,
           "aspectRatio": 1.5238095238095237,
           "capturedAt": "2022-10-31T01:53:28.000Z",
-          "alt": "Family photograph from Family Memories; add a description in site-content.ts",
+          "alt": "Papa standing in a wide field surrounded by rows of orange autumn trees",
+          "caption": "Papa in the autumn colors",
           "featured": false
         },
         {
@@ -1551,8 +1562,10 @@
           "height": 1536,
           "aspectRatio": 1.3333333333333333,
           "capturedAt": "2023-03-09T03:18:05.000Z",
-          "alt": "Family photograph from Family Memories; add a description in site-content.ts",
-          "featured": false
+          "alt": "A family selfie after celebrating Holi, with bright colors across everyone’s faces and clothes",
+          "caption": "A very colorful Holi together",
+          "memory": "The best family days are usually the ones that leave the biggest smiles—and the most color.",
+          "featured": true
         },
         {
           "id": "family-memories-img-4197-f6f1e8d750",
@@ -2066,7 +2079,8 @@
       "height": 1800,
       "aspectRatio": 1.3333333333333333,
       "capturedAt": "2015-12-07T14:47:44.000Z",
-      "alt": "Family photograph from Family Memories; add a description in site-content.ts",
+      "alt": "Papa holding a small child while family members gather for a group photograph",
+      "caption": "Together at a family gathering",
       "featured": false
     },
     {
@@ -2236,7 +2250,8 @@
       "height": 1800,
       "aspectRatio": 1.3333333333333333,
       "capturedAt": "2016-04-16T16:10:24.000Z",
-      "alt": "Family photograph from Family Memories; add a description in site-content.ts",
+      "alt": "Papa and two children posing beside a silver aircraft with shark-mouth nose art",
+      "caption": "Our day among the airplanes",
       "featured": false
     },
     {
@@ -2406,7 +2421,8 @@
       "height": 2400,
       "aspectRatio": 0.75,
       "capturedAt": "2016-08-18T14:44:01.000Z",
-      "alt": "Family photograph from Family Memories; add a description in site-content.ts",
+      "alt": "A child tying a rakhi around Papa’s wrist at the dining table",
+      "caption": "A Raksha Bandhan moment at home",
       "featured": false
     },
     {
@@ -2576,7 +2592,8 @@
       "height": 2400,
       "aspectRatio": 0.75,
       "capturedAt": "2017-01-16T00:28:44.000Z",
-      "alt": "Family photograph from Family Memories; add a description in site-content.ts",
+      "alt": "Papa watching two children sit inside a colorful arcade truck ride",
+      "caption": "Taking the wheel at the arcade",
       "featured": false
     },
     {
@@ -2746,8 +2763,10 @@
       "height": 2400,
       "aspectRatio": 0.75,
       "capturedAt": "2018-01-14T15:00:54.000Z",
-      "alt": "Family photograph from Family Memories; add a description in site-content.ts",
-      "featured": false
+      "alt": "Papa standing with two children at an overlook with the Golden Gate Bridge behind them",
+      "caption": "A foggy day at the Golden Gate",
+      "memory": "Even the fog could not hide how special it felt to explore somewhere new together.",
+      "featured": true
     },
     {
       "id": "family-memories-img-6010-6ba69af11f",
@@ -2916,7 +2935,8 @@
       "height": 2400,
       "aspectRatio": 0.75,
       "capturedAt": "2018-01-14T21:50:50.000Z",
-      "alt": "Family photograph from Family Memories; add a description in site-content.ts",
+      "alt": "Papa posing with two children in front of San Francisco City Hall",
+      "caption": "Exploring San Francisco together",
       "featured": false
     },
     {
@@ -3086,7 +3106,8 @@
       "height": 1800,
       "aspectRatio": 1.3333333333333333,
       "capturedAt": "2018-03-18T20:50:07.000Z",
-      "alt": "Family photograph from Family Memories; add a description in site-content.ts",
+      "alt": "A family selfie taken together while riding in an open-sided red passenger car",
+      "caption": "All aboard for another family adventure",
       "featured": false
     },
     {
@@ -3256,8 +3277,10 @@
       "height": 2400,
       "aspectRatio": 0.75,
       "capturedAt": "2022-03-13T21:27:14.000Z",
-      "alt": "Family photograph from Family Memories; add a description in site-content.ts",
-      "featured": false
+      "alt": "Papa standing behind two children wearing blue martial arts uniforms and holding new belts",
+      "caption": "Proud of every milestone",
+      "memory": "You have always been there at the finish line, proud of every step it took to get there.",
+      "featured": true
     },
     {
       "id": "family-memories-1a1e2aed-3e2e-4706-bbe1-f4f4c9f686a5-82dcb76377",
@@ -3426,7 +3449,8 @@
       "height": 672,
       "aspectRatio": 1.5238095238095237,
       "capturedAt": "2022-10-31T01:53:28.000Z",
-      "alt": "Family photograph from Family Memories; add a description in site-content.ts",
+      "alt": "Papa standing in a wide field surrounded by rows of orange autumn trees",
+      "caption": "Papa in the autumn colors",
       "featured": false
     },
     {
@@ -3596,8 +3620,10 @@
       "height": 1536,
       "aspectRatio": 1.3333333333333333,
       "capturedAt": "2023-03-09T03:18:05.000Z",
-      "alt": "Family photograph from Family Memories; add a description in site-content.ts",
-      "featured": false
+      "alt": "A family selfie after celebrating Holi, with bright colors across everyone’s faces and clothes",
+      "caption": "A very colorful Holi together",
+      "memory": "The best family days are usually the ones that leave the biggest smiles—and the most color.",
+      "featured": true
     },
     {
       "id": "family-memories-img-4197-f6f1e8d750",
