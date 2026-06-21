@@ -1,0 +1,9 @@
+node_modules/
+.next/
+public/generated-photos/
+src/data/photo-manifest.json
+scripts/.photo-cache.json
+original-photos/**
+!original-photos/.gitkeep
+.DS_Store
+npm-debug.log*
